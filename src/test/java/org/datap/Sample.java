@@ -22,6 +22,8 @@ public class Sample extends BaseClass{
 		responseObject("POST", "api/users");
 		responseCode();
 		responseBody();
+		System.out.println("Work done by Dev");
+		System.out.println("Developer Work");
 	}
 	
 	
