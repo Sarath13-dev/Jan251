@@ -1,0 +1,40 @@
+{
+	"id": "0001",
+	"type": "donut",
+	"name": "cake",
+	"ppu": 0.55,
+	"batters": {
+		"batter": [
+			{
+				"id": "1001",
+				"type": "Regular"
+			},
+			{
+				"id": "1002",
+				"type": "Chocalate"
+			},
+			{
+				"id": "1003",
+				"type": "Blueberry"
+			},
+			{
+				"id": "10004",
+				"type": "Devil's Food"
+			}
+		]
+	},
+	"topping": [
+		{
+			"id": "5001",
+			"type": "Java"
+		},
+		{
+			"id": "5002",
+			"type": "Python"
+		},
+		{
+			"id": "5003",
+			"type": "Selenium"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-12T05:03:42Z" name="Suite" finished-at="2024-11-12T05:03:44Z" duration-ms="1791">
+    <groups>
+    </groups>
+    <test started-at="2024-11-12T05:03:42Z" name="Test" finished-at="2024-11-12T05:03:44Z" duration-ms="1791">
+      <class name="com.automation.Sample">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.automation.Sample@6676f6a0]" started-at="2024-11-12T05:03:42Z" name="beforeMethod" finished-at="2024-11-12T05:03:42Z" duration-ms="573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tc0()[pri:0, instance:com.automation.Sample@6676f6a0]" started-at="2024-11-12T05:03:42Z" name="tc0" finished-at="2024-11-12T05:03:44Z" duration-ms="1201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.automation.Sample@6676f6a0]" started-at="2024-11-12T05:03:44Z" name="afterMethod" finished-at="2024-11-12T05:03:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.automation.Sample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

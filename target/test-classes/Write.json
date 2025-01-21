@@ -1,0 +1,13 @@
+{
+	"name": "Ram Sarath",
+	"age": 32,
+	"status": true,
+	"address": {
+		"state": "TN",
+		"country": "IND"
+	},
+	"courses": [
+		"Java",
+		"Selenium"
+	]
+}
